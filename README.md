@@ -1,1 +1,1 @@
-<img src="./figuras/afiche_bioinfo.png"  width="800" height="1050">
+<img src="./figuras/afiche_bioinfo.png"  width="900" height="1200">
