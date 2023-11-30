@@ -1,6 +1,4 @@
 ---
-## Escuela Regional de Ecología Microbiana de Sistemas Acuáticos
----
 ## Bioinformática aplicada al análisis de datos de metabarcoding de ADN ambiental
 ---
 
@@ -15,6 +13,6 @@ Este curso hace una introducción al análisis bioinformático de datos de metab
  - Responsable: Emiliano Pereira emiliano.pereira@cure.edu.uy
  - Docentes: Cecilia Alonso, Daiana Mir, Luciana Griffero, Paula Huber, Juan Zanetti, Emiliano Pereira.
 
-Organiza: Grupo de Ecología Microbiana de Sistemas Acuáticos
+Organiza: Escuela Regional de Ecología Microbiana de Sistemas Acuáticos - Grupo de Ecología Microbiana de Sistemas Acuáticos
 
 
